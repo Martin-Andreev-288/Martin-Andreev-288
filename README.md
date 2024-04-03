@@ -25,4 +25,3 @@ Additional information:
 - 🔭 I’m currently working on improving my coding skills.
 - 🎓 I have a bachelor's degree in Tourism from Sofia University.
 - 💬 Ask me about football, but never about politics.
-- ⚡ Fun fact (or sad fact): I have no faith in the existence of justice.
