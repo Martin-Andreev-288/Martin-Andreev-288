@@ -24,4 +24,4 @@ Additional information:
 - 🌱 I’m currently learning JavaScript.
 - 🔭 I’m currently working on improving my coding skills.
 - 🎓 I have a bachelor's degree in Tourism from Sofia University.
-- 💬 Ask me about football, but never about politics.
+- 💬 Ask me about football, but never about politics 😆.
