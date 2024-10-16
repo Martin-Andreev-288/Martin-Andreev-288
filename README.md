@@ -6,13 +6,13 @@ I'm a graduate of the Alpha JavaScript track at Telerik Academy, embarking on my
 
 ## Additional information:
 - 🌱 I’m currently learning JavaScript with React.
-- 🛠️ I am proficient in JavaScript, HTML, CSS, React, MongoDB and Firebase.
+- 🛠️ I am proficient in JavaScript, HTML, CSS, React and other technologies related to them.
 - 🔭 I’m currently working on improving my coding skills.
 - 🎓 I have a bachelor's degree in Tourism from Sofia University.
 - 💬 Ask me about football, but never about politics 😆.
 
 ## 📚 Current Focus:
-- 🌱 Diving deep into React and its ecosystem.
+- 🌱 Diving deep into React and its ecosystem by following specialized Upskill React course in Telerik Academy.
 - 🛠️ Enhancing code quality and best practices.
 - 🌐 Exploring modern web technologies like frameworks, libraries, and tools.
 
