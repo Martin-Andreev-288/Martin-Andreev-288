@@ -6,7 +6,7 @@ I'm a graduate of the Alpha JavaScript track at Telerik Academy, embarking on my
 
 ## Additional information:
 - 🌱 I’m currently learning JavaScript with React.
-- 🛠️ I am proficient in JavaScript, HTML, CSS, React and other technologies related to them.
+- 🛠️ I am proficient in JavaScript, React and other technologies related to them.
 - 🔭 I’m currently working on improving my coding skills.
 - 🎓 I have a bachelor's degree in Tourism from Sofia University.
 - 💬 Ask me about football, but never about politics 😆.
