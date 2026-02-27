@@ -27,6 +27,6 @@ You can explore my [portfolio site](https://portfolio-m-a.vercel.app/) to learn 
 - ✉️ Email: martin_i_a@abv.bg
 
  ## 📊 GitHub Stats:
-![Martin's stats](https://git-hub-streak-stats.vercel.app/?user=Martin-Andreev-288&theme=dark)
-[![Martin's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Andreev-288&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin-Andreev-288&show_icons=true&theme=radical)
+![Martin's stats](https://streak-stats.demolab.com/?user=Martin-Andreev-288&theme=dark)
+[![Martin's Langs](https://github-readme-stats-beta-two-87.vercel.app/api/top-langs/?username=Martin-Andreev-288&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Martins's GitHub stats](https://github-readme-stats-beta-two-87.vercel.app/api?username=Martin-Andreev-288&show_icons=true&theme=radical)
